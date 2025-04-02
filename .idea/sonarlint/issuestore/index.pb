@@ -9,3 +9,7 @@ Q
 !contracts/data-anonymization.clar,d/d/ddcddc3012098f4db8838a61c64c069d01068940
 P
  tests/data-anonymization.test.ts,e/e/eec8518684381f3cea66f29063eed8596e0d3646
+W
+'contracts/institution-verification.clar,d/d/dd6f29d581e4fc80d30e9eb12d64363ad190bf89
+V
+&tests/institution-verification.test.ts,5/e/5edadce64a6eee8f2384257efbac2d5b1f7dd860
